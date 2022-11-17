@@ -1,2 +1,2 @@
 # kube-lab
-Kubernetes CKA Lab
+Catatan belajar CKA
